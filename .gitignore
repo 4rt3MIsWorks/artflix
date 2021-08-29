@@ -1,0 +1,34 @@
+.vscode/c_cpp_properties.json
+.vscode/launch.json
+.vscode/settings.json
+alurakut/alurakut/.eslintrc.json
+alurakut/alurakut/.gitignore
+alurakut/alurakut/next.config.js
+alurakut/alurakut/package-lock.json
+alurakut/alurakut/package.json
+alurakut/alurakut/README.md
+alurakut/alurakut/pages/_app.js
+alurakut/alurakut/pages/index.js
+alurakut/alurakut/pages/api/hello.js
+alurakut/alurakut/public/favicon.ico
+alurakut/alurakut/public/vercel.svg
+alurakut/alurakut/styles/globals.css
+alurakut/alurakut/styles/Home.module.css
+maratona-twitter-main/index.html
+maratona-twitter-main/README.md
+maratona-twitter-main/assets/css/reset.css
+maratona-twitter-main/assets/css/style.css
+maratona-twitter-main/assets/img/bird 1.svg
+maratona-twitter-main/assets/img/Group (1).png
+maratona-twitter-main/assets/img/Group (2).png
+maratona-twitter-main/assets/img/Group (3).png
+maratona-twitter-main/assets/img/Group.png
+maratona-twitter-main/assets/img/Hashtag.png
+maratona-twitter-main/assets/img/Home.png
+maratona-twitter-main/assets/img/Notification.png
+maratona-twitter-main/assets/img/ProfilePic.png
+maratona-twitter-main/assets/img/twitter.png
+maratona-twitter-main/assets/js/script.js
+music-player/index.html
+music-player/script.js
+music-player/style.css
